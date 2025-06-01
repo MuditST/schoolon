@@ -8,7 +8,7 @@ A comprehensive bi-portal educational app built with Flutter to enhance remote l
 
 ### For Students
 - **Homework Tracking**: Monitor assignments and deadlines
-- **Goal Setting**: Set and track academic objectives
+- **Goal Setting**: Set and track academic objectives  
 - **Resource Access**: Easy access to educational materials
 - **Progress Monitoring**: Track learning achievements
 
@@ -78,7 +78,6 @@ SchoolON was developed in March 2020 as an immediate response to the COVID-19 pa
 ## 📦 Ready to Use
 
 The project includes a pre-built APK file (`app-release.apk`) for immediate installation on Android devices, making it easy to test and deploy the application.
-
 
 ## 📄 License
 
